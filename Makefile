@@ -6,7 +6,7 @@
 #    By: tgoel <tgoel@student.42.fr>                +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/04/03 16:45:56 by tgoel             #+#    #+#              #
-#    Updated: 2022/04/03 18:41:32 by tgoel            ###   ########.fr        #
+#    Updated: 2024/10/06 17:48:22 by trgoel           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -30,4 +30,4 @@ fclean:		clean
 
 re:			fclean all
 
-.PHONY:		clean fclean all
+.PHONY:		re clean fclean all
